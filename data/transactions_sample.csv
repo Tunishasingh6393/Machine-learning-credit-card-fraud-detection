@@ -1,0 +1,4 @@
+tx_id,ts,amount,merchant,category,location,is_fraud
+tx_001,2024-01-01 10:00:00,45.50,Amazon,Retail,New York,0
+tx_002,2024-01-01 11:30:00,1200.00,Luxury Jewelers,Luxury,London,1
+tx_003,2024-01-01 12:15:00,15.20,Starbucks,Food,New York,0

@@ -1,0 +1,6 @@
+# Dummy model file for structure demonstration
+# In a real environment, this would be a joblib/pickle export.
+MODEL_TYPE=XGBoost
+VERSION=1.0.0
+ACCURACY=0.994
+THRESHOLD=0.65
